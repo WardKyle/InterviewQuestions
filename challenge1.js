@@ -1,4 +1,4 @@
-import { orderJson } from './data.js'
+import { orderJson } from "./data.js";
 
 // Restructure the "items" of orderJson to a variable called newOrderJson
 // Set it so that newOrderJson only has two fields, sku and quantity
@@ -14,6 +14,4 @@ import { orderJson } from './data.js'
 //   }
 // ]
 
-
-
-console.log(newOrderJson)
+console.log(newOrderJson);
