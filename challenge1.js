@@ -11,7 +11,12 @@ import { orderJson } from "./data.js";
 //   {
 //     "sku": "KK1609",
 //     "quantity": 1
-//   }
+//   },
+//   {
+//     "sku": "SWLG01_CL",
+//     "quantity": 1
+//   },
+//   ... etc
 // ]
 
 console.log(newOrderJson);
